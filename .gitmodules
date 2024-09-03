@@ -7,3 +7,9 @@
 [submodule "html5games/gamess/GetawayShootout.github.io"]
 	path = html5games/gamess/GetawayShootout.github.io
 	url = https://github.com/duffman34/GetawayShootout.github.io
+[submodule "html5games/gamess/BasketballLegendsUnblocked.github.io"]
+	path = html5games/gamess/BasketballLegendsUnblocked.github.io
+	url = https://github.com/duffman34/BasketballLegendsUnblocked.github.io
+[submodule "html5games/gamess/BasketballStars"]
+	path = html5games/gamess/BasketballStars
+	url = https://github.com/duffman34/BasketballStars
