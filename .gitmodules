@@ -1,3 +1,9 @@
 [submodule "html5games/gamess/RetroBowl"]
 	path = html5games/gamess/RetroBowl
 	url = https://github.com/duffman34/RetroBowl
+[submodule "html5games/gamess/retro-bowl-college-working"]
+	path = html5games/gamess/retro-bowl-college-working
+	url = https://github.com/duffman34/retro-bowl-college-working
+[submodule "html5games/gamess/GetawayShootout.github.io"]
+	path = html5games/gamess/GetawayShootout.github.io
+	url = https://github.com/duffman34/GetawayShootout.github.io
