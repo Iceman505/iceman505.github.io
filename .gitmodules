@@ -13,3 +13,18 @@
 [submodule "html5games/gamess/BasketballStars"]
 	path = html5games/gamess/BasketballStars
 	url = https://github.com/duffman34/BasketballStars
+[submodule "html5games/gamess/wbwwb"]
+	path = html5games/gamess/wbwwb
+	url = https://github.com/duffman34/wbwwb
+[submodule "html5games/gamess/BasketRandom"]
+	path = html5games/gamess/BasketRandom
+	url = https://github.com/duffman34/BasketRandom
+[submodule "html5games/gamess/bitlife"]
+	path = html5games/gamess/bitlife
+	url = https://github.com/duffman34/bitlife
+[submodule "html5games/gamess/BlumgiSlime"]
+	path = html5games/gamess/BlumgiSlime
+	url = https://github.com/duffman34/BlumgiSlime
+[submodule "html5games/gamess/cubes2048"]
+	path = html5games/gamess/cubes2048
+	url = https://github.com/duffman34/cubes2048
