@@ -40,3 +40,9 @@
 [submodule "html5games/gamess/Cluster-rush"]
 	path = html5games/gamess/Cluster-rush
 	url = https://github.com/duffman34/Cluster-rush
+[submodule "html5games/gamess/3kh0"]
+	path = html5games/gamess/3kh0
+	url = https://github.com/MCRed2024/3kh0
+[submodule "html5games/3kh0"]
+	path = html5games/3kh0
+	url = https://github.com/MCRed2024/3kh0
