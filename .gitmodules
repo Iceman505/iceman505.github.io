@@ -28,3 +28,15 @@
 [submodule "html5games/gamess/cubes2048"]
 	path = html5games/gamess/cubes2048
 	url = https://github.com/duffman34/cubes2048
+[submodule "html5games/gamess/drive-mad"]
+	path = html5games/gamess/drive-mad
+	url = https://github.com/duffman34/drive-mad
+[submodule "html5games/66"]
+	path = html5games/66
+	url = https://github.com/duffman34/66
+[submodule "html5games/gamess/slope"]
+	path = html5games/gamess/slope
+	url = https://github.com/duffman34/slope
+[submodule "html5games/gamess/Cluster-rush"]
+	path = html5games/gamess/Cluster-rush
+	url = https://github.com/duffman34/Cluster-rush
