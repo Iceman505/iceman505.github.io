@@ -46,3 +46,6 @@
 [submodule "html5games/3kh0"]
 	path = html5games/3kh0
 	url = https://github.com/MCRed2024/3kh0
+[submodule "html5games/mountain658.github.io"]
+	path = html5games/mountain658.github.io
+	url = https://github.com/mountain658/mountain658.github.io
