@@ -52,3 +52,6 @@
 [submodule "html5games/gamess/Block-Blast"]
 	path = html5games/gamess/Block-Blast
 	url = https://github.com/MCRed2024/Block-Blast
+[submodule "gamehub"]
+	path = gamehub
+	url = https://github.com/duffman34/gamehub
