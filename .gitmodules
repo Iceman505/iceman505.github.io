@@ -55,3 +55,6 @@
 [submodule "gamehub"]
 	path = gamehub
 	url = https://github.com/duffman34/gamehub
+[submodule "66"]
+	path = 66
+	url = https://github.com/duffman34/66
