@@ -49,3 +49,6 @@
 [submodule "html5games/mountain658.github.io"]
 	path = html5games/mountain658.github.io
 	url = https://github.com/mountain658/mountain658.github.io
+[submodule "html5games/gamess/Block-Blast"]
+	path = html5games/gamess/Block-Blast
+	url = https://github.com/MCRed2024/Block-Blast
