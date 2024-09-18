@@ -61,3 +61,9 @@
 [submodule "polytrack"]
 	path = polytrack
 	url = https://github.com/polarwolf67/polytrack
+[submodule "Uvproxy"]
+	path = Uvproxy
+	url = https://github.com/polarwolf67/Uvproxy
+[submodule "Hypertabs"]
+	path = Hypertabs
+	url = https://github.com/polarwolf67/Hypertabs
